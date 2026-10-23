@@ -1,0 +1,153 @@
+.borders{
+    
+    background-color:#F5E6D3;
+    color: black;
+    margin-right: 20px;
+}
+.ccc{
+    padding-top: 130px;
+    background-color: #f3bc77;
+    padding-bottom: 50px;
+    color: white;
+    padding-left: 250px;
+    
+}
+.services{
+    text-align: center;
+    margin-left: -240px;
+}
+.borders:hover{
+    border-top: 10px solid #A8324A;
+    
+
+}
+.one1{
+    padding-top: 40px;
+}
+.one img{
+    width: 450px;
+    height: 300px;
+}
+.two{
+    width: 700px;
+    margin-left: 50px;
+    margin-top: 50px;
+    font-size: 20px;
+}
+.midm{
+    background-color: #fff;
+    padding-bottom: 30px;
+}
+.foot{
+    background-color: whitesmoke;
+}
+.nav1{
+    z-index: 999 !important;
+    
+}
+.nav1{
+    z-index: 999 !important;
+    
+}
+.header{
+    position: fixed;
+    z-index: 999 !important;
+}
+.nav1{
+    display: none;
+    z-index: 999 !important;
+    
+}
+.header1{
+  z-index: 999 !important;  
+}
+.bb{
+    background:#FF7A90;
+    color: white;
+    
+}
+.logo{
+    color: #4B241C;
+    font-weight: bold;
+
+
+}
+.nav2{
+    background:#FFF4E6;
+
+}
+.nav2 ul li a{
+    color: #4B241C;
+    font-weight: bold;
+}
+.b1{
+    background-color: #FF7A90;
+    color: #4B241C;
+    border: none;
+}
+.b2{
+    background-color: #4B241C;
+    color: white;
+    border: none;
+}
+.b1:hover{
+    background-color: white;
+    color: #FF7A90;
+    border: 2px solid #FF7A90;
+}
+.b2:hover{
+    background-color: white;
+    color: #4B241C;
+    border: 2px solid #4B241C;
+}
+
+.nav-bg{
+    background-color: #402a23 !important;
+}
+
+.logo {
+    width: 80px;
+    height: auto;
+}
+.foot{
+    background-color: whitesmoke;
+}
+@media screen and (min-width:320px) and (max-width:468px){
+    .nav1{
+        width: 800px;
+    }
+    .ccc{
+        display: none;
+    }
+   
+    .midm{
+        width: 800px;
+    }
+    .foot{
+        width: 800px;
+        font-size: 25px;
+    }
+    .nav1{
+    z-index: 999 !important;
+    
+}
+    .nav1{
+    z-index: 999 !important;
+    
+}
+.nav-bg{
+    width: 800px;
+}
+.nav1{
+    z-index: 999 !important;
+    
+}
+.nav1{
+    z-index: 999 !important;
+    display: block;
+    
+}
+header{
+    display: none;
+}
+}
